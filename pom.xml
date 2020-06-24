@@ -5,7 +5,6 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-<<<<<<< HEAD
 		<version>2.2.2.BUILD-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
@@ -13,15 +12,6 @@
 	<artifactId>spring-boot-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-example</name>
-=======
-		<version>3.6.3.BUILD-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
-	<groupId>com.javatpoint</groupId>
-	<artifactId>spring-boot-hello-world-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-hello-world-example</name>
->>>>>>> 969a92777c6198b0bcfc0ee6b42bf3fb056b3b3c
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
@@ -31,11 +21,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
-<<<<<<< HEAD
 		</dependency>
-=======
-	</dependency>
->>>>>>> 969a92777c6198b0bcfc0ee6b42bf3fb056b3b3c
 		
 		  <dependency>
  <groupId>org.springframework.boot</groupId>
@@ -48,14 +34,11 @@
 <artifactId>spring-boot-starter-web</artifactId>
 </dependency>
 
-<<<<<<< HEAD
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
 </dependency>
 
-=======
->>>>>>> 969a92777c6198b0bcfc0ee6b42bf3fb056b3b3c
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
